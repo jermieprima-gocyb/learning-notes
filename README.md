@@ -1,5 +1,3 @@
-md
-
 # My Tech Learning Journey
 
 This repository documents my learning tech skills.
